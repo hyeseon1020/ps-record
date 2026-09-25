@@ -1,0 +1,48 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IntelliJ IDEA 프로젝트 파일 (반드시 추가 추천)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle 빌드 파일 (Gradle 프로젝트인 경우)
+.gradle/
+build/
+
+# Maven 빌드 파일 (Maven 프로젝트인 경우)
+target/
+
+# Windows OS 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
