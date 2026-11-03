@@ -78,7 +78,7 @@ stk에 원소가 있는데 stk의 마지막 원소가 arr[i]보다 크거나 같
         // 테스트 케이스: arr = [1, 4, 2, 5, 3] -> 결과: [1, 2, 3]
         int[] arr = {1, 4, 2, 5, 3};
 
-        int[] result = sol.solution(arr, queries = ...); // 테스트 실행 확인용
+        int[] result = sol.solution(arr); // 테스트 실행 확인용
         System.out.println("테스트 결과: " + Arrays.toString(result));
     }
 }
